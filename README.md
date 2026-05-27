@@ -4,19 +4,19 @@
 
 **Disciplina:** GCC241 - Introdução à Computação (2026/1) **Professor:** Prof. Dr. Rafael Serapilha Durelli **Instituição:** Universidade Federal de Lavras (UFLA) - Departamento de Ciência da Computação 
 
-## 👥 Integrantes da Dupla
+## Integrantes da Dupla
 
 * **João Vitor Melo Alves Freitas** - Matrícula: 202610130
 * **Vinícius Ferreira de** - Matrícula: 202610122
 
-## 💻 Linguagem Escolhida
+## Linguagem Escolhida
 
 * 
 **C++** 
 
 
 
-## 🎯 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto é um conversor de bases numéricas (decimal, binário, octal e hexadecimal) implementado a partir do zero. O objetivo central foi compreender e codificar os algoritmos matemáticos por trás das conversões (como divisões sucessivas e somatório posicional), respeitando a restrição de **não utilizar funções nativas de conversão** da linguagem C++ (como `std::stoi`, `strtol`, ou `printf("%x")`).
 
@@ -34,7 +34,7 @@ O código foi modularizado para separar as responsabilidades:
 
 
 
-## 🚀 Instruções de Execução
+## Instruções de Execução
 
 ### Pré-requisitos
 
@@ -62,7 +62,7 @@ g++ src/testes.cpp -o testes && ./testes
 
 ```
 
-## 📖 Exemplos de Uso
+## Exemplos de Uso
 
 Ao rodar o programa, um menu interativo será exibido:
 
@@ -84,11 +84,11 @@ Digite 6 para sair.
 
 
 
-## ⚠️ Limitações Conhecidas
+## Limitações Conhecidas
 
 * **Tipo da base de origem e de destino:** As variáveis que representam as bases de origem e base destino foram declaradas como do tipo int, então ao colocar um caracter inválido para esse tipo como base o sistema fica em loop infinito.
 
-## 🔗 Links Importantes
+## Links Importantes
 
 * 
 **Vídeo de Demonstração (YouTube/Drive):** 
