@@ -188,6 +188,10 @@ int main(){
 			ativo = false;
 			cout<<"Saindo do sistema"<<endl;
 			break;
+		default:
+		ativo = false;
+			cout<<"Comando inválido, saindo do sistema"<<endl;
+			break;
 	}	
 		}	
 return 0;
