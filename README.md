@@ -11,10 +11,7 @@
 
 ## Linguagem Escolhida
 
-* 
-**C++** 
-
-
+* **C++** 
 
 ## Sobre o Projeto
 
@@ -77,6 +74,8 @@ Digite 6 para sair.
 ```
 
 * **Exemplo - Conversão Padrão (Opção 1):** O usuário seleciona a base de origem (ex: 1 para Decimal) e a base de destino (ex: 2 para Binário). O programa pedirá o número e fará a validação, retornando o resultado diretamente.
+
+
 * **Exemplo - Validação (F5):** Se o usuário escolher "Base Binária" e digitar `102`, o programa exibirá: `Erro: Entrada invalida. [cite_start]A base binaria aceita apenas os digitos 0 e 1.` e abortará a conversão.
 
 
@@ -90,5 +89,4 @@ Digite 6 para sair.
 
 ## Links Importantes
 
-* 
-**Vídeo de Demonstração (YouTube/Drive):** 
+* **Vídeo de Demonstração (YouTube/Drive):** 
